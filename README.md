@@ -1,13 +1,8 @@
-# **Tools and Libraries Used in Our Project**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=flat&logo=google&logoColor=white)
-![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=flat&logo=google&logoColor=white)
-
 # GenAI App - AI Code Reviewer
 
 ## 🚀 Objective
-The **GenAI App - AI Code Reviewer** is a Python application that lets users submit Python code for review and receive instant feedback, including bug fixes and improvement suggestions.
+The objective of this project is to develop a Python application that allows users to submit their Python code for review and receive feedback on potential bugs along with suggestions for fixes. The application should be user-friendly, efficient, and provide accurate bug reports and fixed code snippets.
+
 
 ---
 
@@ -32,14 +27,3 @@ The **GenAI App - AI Code Reviewer** is a Python application that lets users sub
    ```bash
    streamlit run app.py
    ```
-
----
-
-🎯 Future Enhancements
-  - Extend the application to support a Flask web framework alternative, providing more flexibility for deployment and customization.
-  - use advance ui/ux design
----
-
-## 🌐 Acknowledgments
-- **Google Generative AI** for code review functionality.  
-- **Streamlit** for the web app framework.
